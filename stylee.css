@@ -64,6 +64,9 @@ section.legal {
 .lava-java{
     background-image: url(65359dc8c693127e8fcb395c_61772be05e10e6a3738690714f9599d0_w200.gif) !important;
 }
+.page-wrap{
+    background-image: url(bggg.gif) !important;
+}
 @media (max-width: 600px) {
     .age-popup {
         width: 97% !important;
