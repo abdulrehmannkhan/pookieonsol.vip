@@ -1,0 +1,62 @@
+.logo-img {
+    border-radius: 50% !important;
+}
+
+.nav.w-nav {
+    background: #fbb9b6 !important;
+}
+
+.age-popup {
+    background: #023465 !important;
+    
+}
+
+.error-msg {
+    background: #fd97fa !important;
+   
+}
+
+.content-wrapper {
+    background: #fbb9b6 !important;
+}
+.page-wrap {
+    background: #fbb9b6 !important;
+}
+
+.bg {
+    background: #fbb9b6 !important;
+}
+
+h1.title-medium {
+    color: #023465 !important;
+}
+
+p.marquee-text {
+    color: #023465 !important;
+}
+.perloader-wrapper-2 {
+    background: #023465 !important;
+}
+.nav-link.is--highlighted {color: #ffffff !important;}
+figure.contain.is--hero-left-bottom img {
+    border-radius: 50%;
+}
+h2.title-large {
+    color: #023465 !important;
+}
+
+.bottle-card {
+    /* mix-blend-mode: color-burn !important; */
+}
+
+h3.title-medium {
+    color: #023465 !important;
+}
+
+a.marquee-link {
+    color: #023465 !important;
+}
+
+section.legal {
+    background: #023465 !important;
+}
