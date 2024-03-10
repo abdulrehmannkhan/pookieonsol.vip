@@ -67,6 +67,28 @@ section.legal {
 .page-wrap{
     background-image: url(bggg.gif) !important;
 }
+.chilli-marquee img {
+    border-radius: 50%;
+}
+
+img.bottle-icon.is--first {
+    border-radius: 50%;
+}
+
+img.bottle-icon.is--second {
+    border-radius: 50%;
+}
+
+img.bottle-icon.is--third {
+    border-radius: 50%;
+}
+
+img.bottle-icon.is--forth {
+    border-radius: 50%;
+}
+
+
+
 @media (max-width: 600px) {
     .age-popup {
         width: 97% !important;
