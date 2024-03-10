@@ -42,7 +42,6 @@ figure.contain.is--hero-left-bottom img {
     border-radius: 50%;
 }
 h2.title-large {
-    color: #023465 !important;
 }
 
 .bottle-card {
@@ -60,3 +59,15 @@ a.marquee-link {
 section.legal {
     background: #023465 !important;
 }
+.chilli-marquee {
+    background-image: url(65359dc8c693127e8fcb395c_61772be05e10e6a3738690714f9599d0_w200.gif) !important;
+}
+.lava-java{
+    background-image: url(65359dc8c693127e8fcb395c_61772be05e10e6a3738690714f9599d0_w200.gif) !important;
+}
+@media (max-width: 600px) {
+    .age-popup {
+        width: 97% !important;
+    }
+}
+
