@@ -71,5 +71,15 @@ section.legal {
     .age-popup {
         width: 97% !important;
     }
+    .image-4 {
+        width: 280px !important;
+        object-fit: cover !important;
+    }
+    
+    .w-layout-grid.grid-2 {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        margin: 0px 0 !important;
+    }
 }
 
